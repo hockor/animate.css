@@ -1,3 +1,5 @@
+## CSS 动画库，非常酷炫哦！
+[http://daneden.github.io/animate.css/](展示链接：http://daneden.github.io/animate.css/)
 #Animate.css
 *Just-add-water CSS animation*
 
